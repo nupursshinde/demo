@@ -6,6 +6,8 @@ public class A
 	{
 		System.out.println(s);
 	System.out.println("m1......string");
+		System.out.println("ganesh");
+		
 	}
 	public void m1(Object o)
 	{
